@@ -1,0 +1,14 @@
+{
+  "name": "rr-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^0.63.4",
+    "rollup-plugin-includepaths": "^0.2.3",
+    "rollup-plugin-rebase": "^2.0.1"
+  }
+}
